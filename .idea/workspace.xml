@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f7088bd-4ce7-416d-9a7d-2ad587f87cdb" name="Default Changelist" comment="" />
+    <list default="true" id="8f7088bd-4ce7-416d-9a7d-2ad587f87cdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/drf_practice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/drf_practice/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/drf_practice/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/drf_practice/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/snippets/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/snippets/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/snippets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/snippets/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/snippets/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/snippets/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_practice/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_practice/snippets/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/https:/github.com/juheoung/drf_practice.git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1d3yivvEFYY4DtK9n7fYiUid3Ej" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -69,7 +79,7 @@
       <updated>1591668202054</updated>
       <workItem from="1591668205914" duration="7336000" />
       <workItem from="1591680928634" duration="72000" />
-      <workItem from="1591681014411" duration="12574000" />
+      <workItem from="1591681014411" duration="26975000" />
     </task>
     <servers />
   </component>
@@ -85,22 +95,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="78" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1591670494794" />
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1591705622784">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1591772109365">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591705622784" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1591705622782">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591772109365" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1591772109364">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591705622782" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1591705622782">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591772109364" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1591772109363">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591705622782" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1591705622783">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591772109363" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1591772109365">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591705622783" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591772109365" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1591705622786">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -129,11 +139,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/drf_practice/drf_practice/settings.py</url>
-          <line>90</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$USER_HOME$/.pyenv/versions/drf_practice/lib/python3.8/site-packages/rest_framework/mixins.py</url>
           <line>45</line>
